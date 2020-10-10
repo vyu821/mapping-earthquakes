@@ -10,4 +10,4 @@ You are to visualize earthquake data in relation to tectonic plates' location on
 
 # Challenge Results
 Here is the Github Pages link:
-[Earthquake_Challenge](https://vyu821.github.io/mapping-earthquakes/)
+[Earthquake_Challenge](Earthquake_Challenge/images/earthquake_map.png)
