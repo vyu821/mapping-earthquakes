@@ -8,6 +8,6 @@ You are to visualize earthquake data in relation to tectonic plates' location on
 - [All M4.5+ Earthquakes in the past 7 days](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson)
 - Software: Visual Studio Code 1.47.2
 
-# Challenge Results
+## Challenge Results
 Here is a screenshot of the finished map with the layers control and legend:
 ![Earthquake_Challenge](Earthquake_Challenge/images/earthquake_map.png)
