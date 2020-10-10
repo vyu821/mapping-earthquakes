@@ -9,5 +9,5 @@ You are to visualize earthquake data in relation to tectonic plates' location on
 - Software: Visual Studio Code 1.47.2
 
 # Challenge Results
-Here is the Github Pages link:
+Here is a screenshot of the finished map with the layers control and legend:
 [Earthquake_Challenge](Earthquake_Challenge/images/earthquake_map.png)
