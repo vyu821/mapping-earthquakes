@@ -7,3 +7,7 @@ You are to visualize earthquake data in relation to tectonic plates' location on
 - [All Earthquakes in the past 7 days](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
 - [All M4.5+ Earthquakes in the past 7 days](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson)
 - Software: Visual Studio Code 1.47.2
+
+# Challenge Results
+Here is the Github Pages link:
+[Earthquake_Challenge](https://vyu821.github.io/mapping-earthquakes/)
