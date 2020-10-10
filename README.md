@@ -10,4 +10,4 @@ You are to visualize earthquake data in relation to tectonic plates' location on
 
 # Challenge Results
 Here is a screenshot of the finished map with the layers control and legend:
-[Earthquake_Challenge](Earthquake_Challenge/images/earthquake_map.png)
+![Earthquake_Challenge](Earthquake_Challenge/images/earthquake_map.png)
